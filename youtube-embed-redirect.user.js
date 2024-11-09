@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name           Youtube embed redirect
+// @name           Youtube embed redirect from watch
 // @namespace      Mikhail Zavoloka
 // @version        1.0
 // @description    Open youtube videos in embed mode (by replacing 'watch' to 'embed' in url)
